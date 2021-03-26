@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/queue-m-s.git/static/css/main.2e49bf8d.chunk.css",
+    "main.js": "/queue-m-s.git/static/js/main.dfb6b0d1.chunk.js",
+    "main.js.map": "/queue-m-s.git/static/js/main.dfb6b0d1.chunk.js.map",
+    "runtime-main.js": "/queue-m-s.git/static/js/runtime-main.0502fa75.js",
+    "runtime-main.js.map": "/queue-m-s.git/static/js/runtime-main.0502fa75.js.map",
+    "static/js/2.3dc2e0bf.chunk.js": "/queue-m-s.git/static/js/2.3dc2e0bf.chunk.js",
+    "static/js/2.3dc2e0bf.chunk.js.map": "/queue-m-s.git/static/js/2.3dc2e0bf.chunk.js.map",
+    "static/js/3.04cd9389.chunk.js": "/queue-m-s.git/static/js/3.04cd9389.chunk.js",
+    "static/js/3.04cd9389.chunk.js.map": "/queue-m-s.git/static/js/3.04cd9389.chunk.js.map",
+    "index.html": "/queue-m-s.git/index.html",
+    "static/css/main.2e49bf8d.chunk.css.map": "/queue-m-s.git/static/css/main.2e49bf8d.chunk.css.map",
+    "static/js/2.3dc2e0bf.chunk.js.LICENSE.txt": "/queue-m-s.git/static/js/2.3dc2e0bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0502fa75.js",
+    "static/js/2.3dc2e0bf.chunk.js",
+    "static/css/main.2e49bf8d.chunk.css",
+    "static/js/main.dfb6b0d1.chunk.js"
+  ]
+}

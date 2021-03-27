@@ -1,0 +1,71 @@
+.serverPage__container {
+    margin: 0 auto;
+    padding: 60px 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #f5f7fc;
+    min-height: 100vh;
+  }
+  
+  .serverPage {
+    margin: 60px auto;
+    width: 50%;
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    border: 1px solid #d3d3d3;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 1px 1px 15px #d3d3d3;
+  }
+  
+  .server__serviceClient {
+    height: 300px;
+    padding: 0 40px;
+    display: flex;
+    width: 100%;
+    box-sizing: border-box;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .server {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .server input {
+    margin-left: 30px;
+  }
+  
+  .serviceList {
+    display: flex;
+    flex: 1;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+    height: 150px;
+    background-color: lightgray;
+    margin: 0 20px;
+    padding: 20px 25px;
+    border-radius: 8px;
+  }
+  
+  /* .serviceList h4{
+      margin: 30px;
+  } */
+  
+  .serverPage button {
+    width: 150px;
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 4px;
+  }
+  

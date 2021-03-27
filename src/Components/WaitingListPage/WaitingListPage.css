@@ -1,0 +1,54 @@
+.waitingPage__container{
+    margin: 0 auto;
+    padding: 60px 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #F5F7FC;
+    min-height: 100vh;
+}
+
+.waitingPage{
+    margin: 60px auto;
+    width: 70%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    border: 1px solid #d3d3d3;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 1px 1px 15px #d3d3d3;
+}
+
+.waitingList{
+    margin: 30px;
+    overflow-y: auto;
+    width: 100%;
+}
+
+.waitingList__item{
+    padding-left: 50px;
+}
+
+.waitingList h3{
+    margin: 10px;
+}
+.empty__list{
+    text-align: center;
+}
+
+.back__home{
+    margin: 20px;
+    align-self: flex-start;
+}
+.cins{
+    text-align: center;
+    align-self: center;
+}
+
+.cins1{
+    font-size: 4em;
+}

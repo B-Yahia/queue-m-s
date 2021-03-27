@@ -1,0 +1,62 @@
+.welcomePage__container{
+    margin: 0 auto;
+    padding: 60px 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #F5F7FC;
+    min-height: 100vh;
+}
+
+.welcomePage{
+    margin: 60px auto;
+    width: 50%;
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    border: 1px solid #d3d3d3;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 1px 1px 15px #d3d3d3;
+}
+
+.back__home{
+    margin: 20px;
+    align-self: flex-start;
+}
+.welcomePage__form{
+    margin-top: 100px;
+}
+
+.form__input{
+    padding: 10px;
+    border-radius: 4px;
+    border: none;
+    margin: 20px;
+    width: 250px;
+    outline: none;
+    font-size: 18px;
+    background-color: #F5F7FC;
+}
+
+.form__button{
+    padding: 10px 18px;
+    font-size: 18px;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    background-color: gray;
+    transition: all 0.3s ease-in-out;
+
+}
+
+.form__button:hover{
+    color: #fff;
+    background-color: #95E1D3;
+    /* box-shadow: 1px 3px 15px lightgray; */
+    cursor: pointer;
+
+}
